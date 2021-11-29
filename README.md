@@ -1,4 +1,4 @@
 # project-prototype
-前端项目原型，包括vue和react
+前端项目原型——vue技术栈
 
-vue和react的项目框架，避免自己每次新开项目都要重写一遍
+vue的项目框架，用于新项目的快速启动
